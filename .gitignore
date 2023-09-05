@@ -5,20 +5,8 @@
 # Java Build Target
 target/**
 
-# App Assets
-app/assets/**
-
 # Dependancy Cache
 null/**
-
-# SBT Components
-logs/**
-project/**
-public/**
-sbt-dist/**
-scripts/**
-sbt
-sbt.bat
 
 # ---------------------------------------
 # Additional Files from IDE's
