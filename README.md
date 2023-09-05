@@ -49,7 +49,7 @@ To run the Tactical Card Game code, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd tactical-card-game
+   cd cardGame
    ```
 
 3. Compile the code using SBT (Simple Build Tool):
